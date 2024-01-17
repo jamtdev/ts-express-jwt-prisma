@@ -1,0 +1,10 @@
+{
+  "name": "ts-express-jwt-prisma",
+  "version": "1.0.0",
+  "author": "James <uk-james.taylor@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}

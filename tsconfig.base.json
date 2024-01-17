@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "composite": true,
+    "incremental": true,
+    "esModuleInterop": true
+  }
+}
