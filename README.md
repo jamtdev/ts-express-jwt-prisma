@@ -32,7 +32,7 @@ REFRESH_TOKEN_SECRET=<JWT Secret> (required)
 REFRESH_TOKEN_EXPIRY=<Token lifetime (default: 24hr)>
 ```
 
-To initalise the server:
+To initialise the server:
 
 ```
 docker-compose up -d
